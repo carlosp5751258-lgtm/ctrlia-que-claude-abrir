@@ -2,6 +2,8 @@
 
 🇬🇧 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Una tabla para decidir en 30 segundos qué producto de Claude abrir: Claude Code en la terminal, la app Claude Desktop
 (pestaña Code), Cowork, el chat de claude.ai y Claude Code en la web. Para cada uno: para qué sirve, dónde corre el
 trabajo, qué instalar, en qué sistemas funciona y qué plan lo incluye. Más el árbol de decisión y lo que incluye cada plan.
@@ -12,7 +14,7 @@ Página completa: [ctrlia.dev (ES)](https://ctrlia.dev/recetas/que-claude-abrir.
 ## Qué incluye
 
 - `tabla.md`: tabla comparativa, planes (precios oficiales a 1-nov-2026) y árbol de decisión, en español.
-- `tabla.en.md`: lo mismo en inglés.
+- `en/tabla.md`: lo mismo en inglés.
 
 ## Cómo usarlo
 

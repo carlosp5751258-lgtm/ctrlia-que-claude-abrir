@@ -2,6 +2,8 @@
 
 🇪🇸 [Leer en español](README.md)
 
+The Spanish version is in the repository root and in [README.md](README.md); the English files are in `en/`.
+
 A table to decide in 30 seconds which Claude product to open: Claude Code in the terminal, the Claude Desktop app (Code
 tab), Cowork, the claude.ai chat and Claude Code on the web. For each one: what it's for, where the work runs, what to
 install, which systems it runs on and which plan includes it. Plus the decision tree and what each plan includes.
@@ -11,8 +13,8 @@ Full page: [ctrlia.dev (EN)](https://ctrlia.dev/en/recetas/que-claude-abrir.html
 
 ## What's included
 
-- `tabla.en.md`: comparison table, plans (official prices as of 1 Nov 2026) and decision tree, in English.
-- `tabla.md`: the same in Spanish.
+- `en/tabla.md`: comparison table, plans (official prices as of 1 Nov 2026) and decision tree, in English.
+- `tabla.md` (root): the same in Spanish.
 
 ## How to use it
 
